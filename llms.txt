@@ -1,0 +1,40 @@
+# gymnasiepædagogik.dk
+
+> Gymnasiepædagogik og generativ AI: hvor AI hjælper og skader, tre øvelser til i morgen, skriftlighed, prøver og ærlige forbehold. Til lærere og ledere.
+
+Et uafhængigt videnssite på dansk, skrevet af Kasper Bergstrøm fra ai-workshop.dk. Siden er ikke tilknyttet de nævnte forfattere, forlag eller institutioner. Senest opdateret 2026-11-07.
+
+## Kort fortalt
+- Generativ AI ændrer, hvordan elever skriver, læser og forbereder sig. Det ændrer ikke, hvad god undervisning er.
+- Opgavedesignet afgør det meste. Hvis AI tænker for eleven, lærer eleven mindre. Hvis AI får eleven til at tænke mere, lærer eleven mere.
+- Skriftligheden er mest udsat. Flyt mere af skriveprocessen ind i timerne, og vurder processen, ikke kun produktet.
+- Reglerne for AI og prøver ændrer sig løbende. Tjek altid Børne- og Undervisningsministeriet og jeres egen skoles retningslinjer.
+
+## Indhold
+- [Hvad er gymnasiepædagogik](https://xn--gymnasiepdagogik-2ob.dk/#grundtanker): Pædagogikken for stx, hhx, htx, hf og eux: faglighed, dannelse, studieparathed og fællesskab.
+- [AI i undervisningen](https://xn--gymnasiepdagogik-2ob.dk/#ai): Hvor AI hjælper, og hvor det skader, med en tommelfingerregel om opgavedesign.
+- [Tre øvelser til i morgen](https://xn--gymnasiepdagogik-2ob.dk/#ovelser): Find fejlen, djævelens advokat og prompt som refleksion.
+- [Skriftlighed og prøver](https://xn--gymnasiepdagogik-2ob.dk/#skriftlighed): Hvad AI betyder for hjemmeopgaver, og hvad man kan gøre i sin egen undervisning nu.
+- [Forbehold](https://xn--gymnasiepdagogik-2ob.dk/#forbehold): Seks forbehold om regler, fejl, persondata, ulighed, evidens og lærerens dømmekraft.
+- [Spørgsmål og svar](https://xn--gymnasiepdagogik-2ob.dk/#faq): Korte svar på de mest almindelige spørgsmål om AI i gymnasiet.
+- [Læs videre](https://xn--gymnasiepdagogik-2ob.dk/#laes-videre): Kilder: Sine Zambach (Praxis, 2024), Center for Gymnasieforskning (SDU), Børne- og Undervisningsministeriet og Danske Gymnasier.
+
+## Spørgsmål og svar
+### Må elever bruge AI i gymnasiet?
+Det afhænger af skolen, faget og prøveformen. Børne- og Undervisningsministeriet fastsætter prøvereglerne, og den enkelte skole har typisk egne retningslinjer for brug i undervisningen. Tjek altid de aktuelle regler, før du planlægger et forløb.
+
+### Hvordan bruger man AI i undervisningen, uden at eleverne lærer mindre?
+Brug AI til at få eleven til at tænke mere, ikke mindre. Det virker godt som sparringspartner før skrivning, som kritisk opponent og som genstand for kildekritik. Lad eleven selv skrive, svare og begrunde sine valg.
+
+### Kan man se, om en elev har brugt AI?
+Ikke sikkert. Værktøjer, der påstår at kunne spotte AI-tekst, tager fejl begge veje. En kort samtale om elevens egen tekst siger ofte mere: kan eleven forklare, hvad der står, og hvorfor?
+
+### Hvad betyder AI for den lange hjemmeopgave?
+Opgaven kan ikke længere bygge på en antagelse om, at eleven selv skrev teksten. Et realistisk svar er at flytte mere af skriveprocessen ind i timerne, vurdere udkast og revision og bruge mundtlig samtale som tjek.
+
+### Hvor kan jeg læse mere om AI i gymnasiet?
+Sine Zambachs bog AI i gymnasiet (Praxis, 2024) er et godt sted at starte. Center for Gymnasieforskning på SDU, Børne- og Undervisningsministeriet og Danske Gymnasier følger også feltet. Links står under Læs videre.
+
+## Om afsenderen
+- [ai-workshop.dk](https://ai-workshop.dk/): Praktiske workshops om generativ AI for undervisere og vidensarbejdere, holdt af Kasper Bergstrøm.
+- [Søsterside](https://xn--universitetspdagogik-u0b.dk/): Samme tilgang til en anden del af uddannelsessystemet.
