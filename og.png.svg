@@ -1,11 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-<rect width="1200" height="630" fill="#13243c"/>
-<rect x="0" y="0" width="14" height="630" fill="#d9a400"/>
-<rect x="80" y="80" width="84" height="84" rx="18" fill="#1d3557"/>
-<text x="122" y="140" font-family="DejaVu Serif" font-weight="bold" font-size="52" text-anchor="middle" fill="#d9a400">G</text>
-<text x="190" y="135" font-family="Inter" font-weight="600" font-size="30" fill="#c9cfd8">gymnasiepædagogik.dk</text>
-<text x="80" y="300" font-family="Inter" font-weight="800" font-size="86" fill="#f3f1ea" letter-spacing="-2">Gymnasiepædagogik</text>
-<text x="80" y="395" font-family="Inter" font-weight="800" font-size="86" fill="#d9a400" letter-spacing="-2">og AI</text>
-<text x="80" y="480" font-family="Inter" font-weight="400" font-size="34" fill="#d6d9de">Øvelser, skriftlighed, prøver og ærlige forbehold</text>
-<text x="80" y="560" font-family="Inter" font-weight="600" font-size="24" fill="#8f9bb0">Af Kasper Bergstrøm · ai-workshop.dk</text>
+<rect width="1200" height="630" fill="#1c3a31"/>
+<rect x="80" y="80" width="84" height="84" rx="20" fill="#24493e" transform="rotate(-6 122 122)"/>
+<text x="122" y="143" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="52" text-anchor="middle" fill="#f2b300">G</text>
+<text x="190" y="135" font-family="Arial,sans-serif" font-weight="700" font-size="30" fill="#c6d2c9">gymnasiepædagogik.dk</text>
+<text x="80" y="300" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="74" fill="#f4f1e6" letter-spacing="-2">Gymnasiepædagogik</text>
+<text x="80" y="395" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="74" fill="#f2b300" letter-spacing="-2">og AI</text>
+<path d="M80 418 C 160 404, 250 404, 330 414" stroke="#e45f3a" stroke-width="7" fill="none" stroke-linecap="round"/>
+<text x="80" y="490" font-family="Arial,sans-serif" font-size="34" fill="#c6d2c9">Øvelser, skriftlighed, prøver og ærlige forbehold</text>
+<text x="80" y="565" font-family="Arial,sans-serif" font-weight="700" font-size="24" fill="#9fb3a8">Af Kasper Bergstrøm · ai-workshop.dk</text>
+<g font-family="Comic Sans MS,cursive" font-size="40" fill="#2a2200" transform="translate(40 0) scale(.92)">
+<rect x="930" y="90" width="150" height="90" fill="#f2b300" transform="rotate(-4 1005 135)"/><text x="1005" y="150" text-anchor="middle">stx</text>
+<rect x="960" y="230" width="150" height="90" fill="#f6a68b" transform="rotate(3 1035 275)"/><text x="1035" y="290" text-anchor="middle">hhx</text>
+<rect x="920" y="370" width="150" height="90" fill="#a8dcc4" transform="rotate(-2 995 415)"/><text x="995" y="430" text-anchor="middle">hf</text>
+</g>
 </svg>
