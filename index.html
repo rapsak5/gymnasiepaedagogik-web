@@ -516,6 +516,21 @@
     <p>Kasper Bergstrøm fra ai-workshop.dk holder praktiske workshops om AI for undervisere. Ikke foredrag om fremtiden, men øvelser i jeres egne fag og med jeres egne opgaver. Hvor giver det mening, hvor gør det ikke, og hvordan designer man opgaver, der holder?</p>
     <p>Baggrunden er pædagogik, læringsteknologi og mange års arbejde med undervisning på universitetet.</p>
     <a class="btn" href="https://ai-workshop.dk">Se ai-workshop.dk <span class="arr" aria-hidden="true">→</span></a>
+    <form class="kf" id="kontaktformular" action="https://formsubmit.co/kasper@ai-workshop.dk" method="POST">
+      <input type="hidden" name="_subject" value="Ny besked fra gymnasiepædagogik.dk">
+      <input type="hidden" name="_next" value="https://xn--gymnasiepdagogik-2ob.dk/?tak=1#kontaktformular">
+      <input type="hidden" name="_template" value="table">
+      <input type="text" name="_honey" class="kf-honning" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <h3>Skriv til Kasper</h3><p class="kf-intro" style="margin:0">Fortæl kort om jeres skole og hvad I gerne vil arbejde med, så vender jeg tilbage.</p>
+      <div class="kf-to">
+        <label for="kf-navn">Navn<input id="kf-navn" name="navn" required autocomplete="name"></label>
+        <label for="kf-mail">E-mail<input id="kf-mail" name="email" type="email" required autocomplete="email"></label>
+      </div>
+      <label for="kf-org">Skole (valgfrit)<input id="kf-org" name="organisation" autocomplete="organization"></label>
+      <label for="kf-besked">Besked<textarea id="kf-besked" name="besked" rows="5" required></textarea></label>
+      <div class="kf-raekke"><button class="btn" type="submit">Send besked</button><p class="kf-note">Beskeden går til Kasper gennem tjenesten FormSubmit og bruges kun til at svare dig.</p></div>
+      <p class="kf-tak" id="kf-tak" role="status" hidden>Tak for din besked. Kasper vender tilbage hurtigst muligt.</p>
+    </form>
   </div>
 </section>
 
@@ -530,5 +545,8 @@
 
 <button class="totop" type="button" aria-label="Til toppen"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
 
+<script>
+if (/[?&]tak=1/.test(location.search)) { var t = document.getElementById('kf-tak'); if (t) t.hidden = false; }
+</script>
 </body>
 </html>
